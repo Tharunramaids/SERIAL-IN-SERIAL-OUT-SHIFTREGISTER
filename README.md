@@ -74,7 +74,8 @@ endmodule
 **TIMING DIAGARM**
 
 
-![output 10](https://github.com/user-attachments/assets/5d3baca3-2414-4b2a-a430-6c7e5885cd41)
+![image](https://github.com/user-attachments/assets/b8ca8efb-8dc5-4792-b98d-1d10d2cafcab)
+
 
 **RESULT**
 
